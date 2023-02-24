@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\x534012\\source\\repos\\prj_CalculoAutonomoMulta\\prj_CalculoAutonomoMulta\\prj_CalculoAutonomoMulta.csproj": {}
+    "C:\\Users\\muril\\Source\\Repos\\MrlDev013\\CalculoDeMulta\\prj_CalculoAutonomoMulta\\prj_CalculoAutonomoMulta\\prj_CalculoAutonomoMulta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\x534012\\source\\repos\\prj_CalculoAutonomoMulta\\prj_CalculoAutonomoMulta\\prj_CalculoAutonomoMulta.csproj": {
+    "C:\\Users\\muril\\Source\\Repos\\MrlDev013\\CalculoDeMulta\\prj_CalculoAutonomoMulta\\prj_CalculoAutonomoMulta\\prj_CalculoAutonomoMulta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\x534012\\source\\repos\\prj_CalculoAutonomoMulta\\prj_CalculoAutonomoMulta\\prj_CalculoAutonomoMulta.csproj",
+        "projectUniqueName": "C:\\Users\\muril\\Source\\Repos\\MrlDev013\\CalculoDeMulta\\prj_CalculoAutonomoMulta\\prj_CalculoAutonomoMulta\\prj_CalculoAutonomoMulta.csproj",
         "projectName": "prj_CalculoAutonomoMulta",
-        "projectPath": "C:\\Users\\x534012\\source\\repos\\prj_CalculoAutonomoMulta\\prj_CalculoAutonomoMulta\\prj_CalculoAutonomoMulta.csproj",
-        "packagesPath": "C:\\Users\\x534012\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\x534012\\source\\repos\\prj_CalculoAutonomoMulta\\prj_CalculoAutonomoMulta\\obj\\",
+        "projectPath": "C:\\Users\\muril\\Source\\Repos\\MrlDev013\\CalculoDeMulta\\prj_CalculoAutonomoMulta\\prj_CalculoAutonomoMulta\\prj_CalculoAutonomoMulta.csproj",
+        "packagesPath": "C:\\Users\\muril\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\muril\\Source\\Repos\\MrlDev013\\CalculoDeMulta\\prj_CalculoAutonomoMulta\\prj_CalculoAutonomoMulta\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\x534012\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\muril\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

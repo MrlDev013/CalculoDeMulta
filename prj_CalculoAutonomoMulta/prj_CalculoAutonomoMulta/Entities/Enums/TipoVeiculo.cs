@@ -4,6 +4,6 @@
     {
         Carro = 0,
         Moto = 1,
-        Caminhao = 2
+        //Caminhao = 2
     }
 }

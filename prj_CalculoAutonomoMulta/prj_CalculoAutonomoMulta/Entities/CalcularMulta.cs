@@ -6,7 +6,20 @@ using System.Threading.Tasks;
 
 namespace prj_CalculoAutonomoMulta.Entities
 {
-    internal class CalcularMulta
+    public class CalcularMulta
     {
+        public double velocidade;
+        public double CalcularMultaCarro()
+        {
+            return (velocidade - 100) * 0.15;
+        }
+        public double CalcularMultaMoto()
+        {
+            return (velocidade - 100) * 0.10;
+        }
+        public double CalcularMultaCaminhao()
+        {
+            return (velocidade - 100) * 0.20;
+        }
     }
 }

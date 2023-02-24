@@ -11,10 +11,10 @@ namespace prj_CalculoAutonomoMulta.Entities.Enums.Moto
                public string[] A_marcaMoto = new string[]
             {
                 "Yamaha",
-                "Kawazaki",
+                "Kawasaki",
                 "Honda",
                 "Suzuki",
-                "Duke"
+                "BMW"
             }; 
     }
 }
